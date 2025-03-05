@@ -19,7 +19,7 @@ The **Student Grade Calculator** is a Java-based application that allows users t
 ## 📥 Installation & Setup  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/student-grade-calculator.git
+   git clone https://github.com/danieljobe351/student-grade-calculator.git
    cd student-grade-calculator
 
 	2.	Compile the Java files:
